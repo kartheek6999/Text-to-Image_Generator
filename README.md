@@ -1,4 +1,4 @@
-Text-To-Image-Generator
+# Text-To-Image-Generator
 
 This is a Google Colab-based Gradio interface for generating images using Stable Diffusion.
 
